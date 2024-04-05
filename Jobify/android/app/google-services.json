@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "376979294230",
+    "project_id": "car-display-21aeb",
+    "storage_bucket": "car-display-21aeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376979294230:android:6d4482ff011f2d7f2d0d37",
+        "android_client_info": {
+          "package_name": "com.example.vid_dowloader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376979294230-b2l4ha9locig7e52vsaeflk14nvb7e43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWa9OLAYFRanHOE6tEfSZg1swJ_zlH4D4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376979294230-b2l4ha9locig7e52vsaeflk14nvb7e43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
